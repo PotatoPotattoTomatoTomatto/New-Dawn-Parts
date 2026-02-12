@@ -9,3 +9,8 @@ A part pack that contains a selection of parts that allow you to recreate real r
 -Created Mod
 
 -Added Sputnik Core
+
+#### v0.1.1
+-Added NK-33
+
+-Added New Dawn Soyuz category
