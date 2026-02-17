@@ -14,3 +14,16 @@ A part pack that contains a selection of parts that allow you to recreate real r
 -Added NK-33
 
 -Added New Dawn Soyuz category
+
+#### v0.1.1.1
+-Added dynamic thrust for NK-33
+
+-Fixed NK-33 Magnet
+
+-Added Producer
+
+-Added Designer
+
+-Added Thrust ASL
+
+-Added ISP ASL
