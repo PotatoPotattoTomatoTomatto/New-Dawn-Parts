@@ -20,10 +20,27 @@ A part pack that contains a selection of parts that allow you to recreate real r
 
 -Fixed NK-33 Magnet
 
--Added Producer
+-Added Producer for NK-33
 
--Added Designer
+-Added Designer for NK-33
 
--Added Thrust ASL
+-Added Thrust ASL for NK-33
 
--Added ISP ASL
+-Added ISP ASL for NK-33
+
+#### v0.1.1.2
+-Added plume for NK-33
+
+-Added audio for NK-33
+
+#### v0.1.1.3
+-Added RP-1
+
+-Added RP-1 Tank
+
+-Added LOX
+
+-Added LOX tank
+
+-Added Vacuum plume for NK-33
+
